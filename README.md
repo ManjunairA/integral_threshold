@@ -1,1 +1,1 @@
-# Integral Thrsholding Technique
+# Integral Thrshold Technique
