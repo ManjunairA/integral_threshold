@@ -1,1 +1,1 @@
-# Imagescrap
+# Integral Thrsholding Technique
